@@ -44,7 +44,7 @@ How about we put it all together.
 So here is my final prompt: ```PS1='\[\e[0;32m\]\u\[\e[m\]\[\e[1;34m\]\w\[\e[m\]\[\e[m\]$(__git_ps1)\e[0;34m\]\e[0;32m\]\n\$ \[\e[1;30m\]'```
 
 Which looks like...
-![alt text](https://cloud.githubusercontent.com/assets/13981641/12080918/a4ee253e-b238-11e5-8082-edcd22ecace3.png "command prompt")
+![alt text](https://cloud.githubusercontent.com/assets/13981641/12080916/91e4b480-b238-11e5-8d0e-ec56db3b93fb.png "command prompt")
 
 There are much more ways to set up your bash profile. Give it a shot, have fun with it! I hope this was helpful.
 
