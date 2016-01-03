@@ -14,8 +14,8 @@ Accesing the .bash_profile is simple enough. So simple that there are multiple w
 Open up Terminal and enter in ```open -e .bash_profile```. This will open your profile in a simple text editor. Functions like saving changes work as they would for any normal Mac program, with the docked menu bar. So exiting the editor would just be ```cmd+q```.
 
 ###Terminal Method:
-Open up Terminal and enter in ```nano .bash_profile```. This will open your profile in a the terminal window.  Example:
-
+Open up Terminal and enter in ```nano .bash_profile```. This will open your profile in a the terminal window. Example:
+![alt text](https://cloud.githubusercontent.com/assets/13981641/12080918/a4ee253e-b238-11e5-8082-edcd22ecace3.png "terminal bash profile")
 
 ##Editing You .bash_profile...
 The exciting aspect of making your profile your own is that there are dozens of options to customize it and even more combinations you can use to truly make it your own., so we are going to focus on two areas I feel are the most useful for navigation; indicating when you are in a git and what branch you are on and a little bit of color highlighting to made the command line stand out from the output.
@@ -44,7 +44,7 @@ How about we put it all together.
 So here is my final prompt: ```PS1='\[\e[0;32m\]\u\[\e[m\]\[\e[1;34m\]\w\[\e[m\]\[\e[m\]$(__git_ps1)\e[0;34m\]\e[0;32m\]\n\$ \[\e[1;30m\]'```
 
 Which looks like...
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "command prompt")
+![alt text](https://cloud.githubusercontent.com/assets/13981641/12080918/a4ee253e-b238-11e5-8082-edcd22ecace3.png "command prompt")
 
 There are much more ways to set up your bash profile. Give it a shot, have fun with it! I hope this was helpful.
 
