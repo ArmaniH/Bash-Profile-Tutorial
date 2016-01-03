@@ -50,7 +50,8 @@ Which looks like...
 There are much more ways to set up your bash profile. Give it a shot, have fun with it! I hope this was helpful.
 
 ###Helpful Links:
-Wondering what all those ```/w``` and ```/u``` mean? Go [here](http://www.davidpashley.com/articles/bash-prompts/) for a lovely breakdown of bash prompts.
+Wondering what all those ```/w``` and ```/u``` mean? Go [here](http://www.davidpashley.com/articles/bash-prompts/) for a lovely breakdown of bash prompts. 
+
 Feeling more chromatic? [Here](https://wiki.archlinux.org/index.php/Color_Bash_Prompt) are your Bash color codes.
 
 © Armani Hall | @Charmani226 | armanihall@gmail.com
